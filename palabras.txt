@@ -10,3 +10,5 @@ dinosaurio
 carro
 libro
 universo
+oro
+verde
